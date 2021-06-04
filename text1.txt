@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 HelloGit2
+=======
+HelloGit
+>>>>>>> origin/master
